@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "platformName": "Android",
     "appium:automationName": "UiAutomator2",
@@ -7,3 +8,14 @@
     "appium:noReset": true,
     "appium:fullReset": false
 }
+=======
+{
+    "platformName": "Android",
+    "appium:automationName": "UiAutomator2",
+    "appium:deviceName": "emulator-5554",
+    "appium:appPackage": "com.google.android.calculator",
+    "appium:appActivity": "com.android.calculator2.Calculator",
+    "appium:noReset": true,
+    "appium:fullReset": false
+}
+>>>>>>> 4081c466a72acf09a7777b0da79e8fe6b0ab2e44
